@@ -1,3 +1,3 @@
 # gitPr
 
-got pr prac
+git pr prac
